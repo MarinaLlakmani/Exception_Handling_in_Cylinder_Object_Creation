@@ -1,0 +1,14 @@
+5
+10
+yes
+5
+fail
+yes
+failure
+yes
+5
+-10
+yes
+-5
+10
+no
